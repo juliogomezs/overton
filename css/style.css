@@ -1,0 +1,85 @@
+body {
+	font-family: segoe ui;
+	color: aliceblue;
+	font-size: 14px;
+	background-color: #000000;
+}
+
+header{
+	padding: 20px 0;
+}
+
+#hero{ background-image: url(../img/slider-3.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+padding: 200px 0px;
+
+}
+
+#hero h1{
+	font-size: 80px;
+	font-weight: 600;
+	
+}
+#hero p{
+	font-size: 20px;
+	}
+
+.btn-rectanglo{
+	background-color: transparent;
+	border: 1px solid #fff;
+	color: #fff;
+	border-radius: 0;
+	padding: 10px 20px;
+	font-weight: 600;
+}
+.btn-rectanglo :hover{
+	background-color: #FFFFFF;
+	color: #000000;
+	
+}
+#sevices {
+	
+	padding-top: 60px ;
+	padding-bottom: 60px;
+	}
+#sevices p{
+	margin-bottom: 45px;
+}
+
+#S1{
+	/*background-color: darkturquoise;*/
+	background-image: url( ../img/that-long-hot-road.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: yellow;
+	text-align: center;
+	height: 400px;
+	padding: 200px 0px;
+	}
+
+#scroll{
+padding: 100px;
+}
+
+#scroll .info-scroll{
+text-align: center;
+}
+
+#scroll .info-scroll h4{
+font-size: 25px;
+}
+
+#scroll .info-scroll p{
+font-size: 12px;
+}
+#scroll .info-scroll h3{
+font-size: 20px;
+}
+
+.carousel-caption{
+	top: 200px;
+	
+}
